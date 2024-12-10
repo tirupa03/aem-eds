@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p51328-e442308.adobeaemcloud.com/ui#/aem/sites.html/content/EDS-Wapha-POC?appId=aemshell"
+    url: "https://author-p51328-e442308.adobeaemcloud.com/bin/franklin.delivery/tirupa03/aem-eds/main"
     type: "markup"
     suffix: ".html"
